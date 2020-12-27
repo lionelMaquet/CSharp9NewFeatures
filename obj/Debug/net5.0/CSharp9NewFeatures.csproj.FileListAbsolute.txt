@@ -1,0 +1,16 @@
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\bin\Debug\net5.0\CSharp9NewFeatures.exe
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\bin\Debug\net5.0\CSharp9NewFeatures.deps.json
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\bin\Debug\net5.0\CSharp9NewFeatures.runtimeconfig.json
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\bin\Debug\net5.0\CSharp9NewFeatures.runtimeconfig.dev.json
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\bin\Debug\net5.0\CSharp9NewFeatures.dll
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\bin\Debug\net5.0\ref\CSharp9NewFeatures.dll
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\bin\Debug\net5.0\CSharp9NewFeatures.pdb
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\obj\Debug\net5.0\CSharp9NewFeatures.csprojAssemblyReference.cache
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\obj\Debug\net5.0\CSharp9NewFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\obj\Debug\net5.0\CSharp9NewFeatures.AssemblyInfoInputs.cache
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\obj\Debug\net5.0\CSharp9NewFeatures.AssemblyInfo.cs
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\obj\Debug\net5.0\CSharp9NewFeatures.csproj.CoreCompileInputs.cache
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\obj\Debug\net5.0\CSharp9NewFeatures.dll
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\obj\Debug\net5.0\ref\CSharp9NewFeatures.dll
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\obj\Debug\net5.0\CSharp9NewFeatures.pdb
+C:\Users\lione\Desktop\Side Projects\tests\CSharp9NewFeatures\obj\Debug\net5.0\CSharp9NewFeatures.genruntimeconfig.cache

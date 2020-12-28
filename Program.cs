@@ -30,7 +30,7 @@ string temperatureDetails = temperature switch
     > 0 and < 15 => "Cool but fine", // <--- logical operator and, not &&. You could also say or
     < 30 => "Fine",
     < 45 => "Hot",
-    _ => "Not livable"
+    _ => "Not livable" // <--- Default value
 };
 
 Console.WriteLine(temperature);
